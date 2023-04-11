@@ -8,8 +8,9 @@ First-person 3D representation of a maze using raycasting.
 
 The project runs using the MiniLibX, a library for graphic games.
 
+![](https://s2.gifyu.com/images/ezgif-1-b18723cb87.gif)
 <p align="center">
-  <img src=https://s2.gifyu.com/images/ezgif-1-b18723cb87.gif" width="60%" />
+<img src="https://s2.gifyu.com/images/ezgif-1-b18723cb87.gif" width="60%" />
 </p>
 
 ### How to run it
