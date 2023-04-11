@@ -16,6 +16,10 @@ The project runs using the MiniLibX, a library for graphic games.
 make bonus
 
 ./cub3D_bonus ./maps/selected_map.cub
+### Map
+
+
+You can change the map yourself, the map won't work if your map is invalid, you have to surround it by 1 and put a valid ceiling and floor color.
 
 ### Controls
 
