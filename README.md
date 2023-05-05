@@ -2,6 +2,7 @@
 
 First-person 3D representation of a maze using raycasting.
 You have to build a raycasting function that will give the impression you are in a 3D map, but in fact it is not 3d but a 2d image.
+
 Game made in double by rgenge and willianportilho
 
 ## Final grade : 110/100
